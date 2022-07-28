@@ -1,16 +1,13 @@
-<h1>Hi I'm Pedro Lucena <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-<h3>A passionate full-stack developer from Brazil.</h3><h1/>
+## Hi I'm Pedro Lucena <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h3>A passionate full-stack developer from Brazil.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrol22&label=Profile%20views&color=0e75b6&style=flat" alt="pedrol22" /> </p>
 
 
 - 🌱 I’m currently learning **React JS**
-
 - 💬 Ask me about **Django, Python**
-
 - 📫 How to reach me **pedrocontact22@gmail.com**
-
 - ⚡ Fun fact **I do calisthenics.**
 
 <h3 align="left">Connect with me:</h3>
