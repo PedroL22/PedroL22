@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro Lucena</h1>
-<h3 align="center">A passionate full-stack developer from Brazil.</h3>
+<h1>Hi I'm Pedro Lucena <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<h3>A passionate full-stack developer from Brazil.</h3><h1/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrol22&label=Profile%20views&color=0e75b6&style=flat" alt="pedrol22" /> </p>
 
