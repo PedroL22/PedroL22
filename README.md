@@ -16,7 +16,7 @@
 <h3 align="left">Top Technologies</h3>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org/)
-[![TypeScript Badge](https://img.shields.io/badge/-Typescript-2D79C7?style=for-the-badge&labelColor=black&logo=typescript&logoColor=2D79C7)](https://www.typescriptlang.org/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7E018?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7E018)](https://www.javascript.com/)
 [![Django Badge](https://img.shields.io/badge/-Django-103E2E?style=for-the-badge&labelColor=black&logo=django&logoColor=FFFFFF)](https://www.djangoproject.com/)
 [![Python Badge](https://img.shields.io/badge/-Python-FFC331?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](https://www.python.org)
 
