@@ -1,5 +1,5 @@
 ## Hi, I'm Pedro Lucena <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-<h3>A passionate Front-End developer from Brazil.</h3>
+<h3>A passionate Full-Stack developer from Brazil.</h3>
 <img align="right" alt="coding gif" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 :mailbox: Reach me out!
@@ -8,7 +8,7 @@
 [![Mail Badge](https://img.shields.io/badge/-pedrocontact22-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pedrocontact22@gmail.com) 
 [![Twitter Badge](https://img.shields.io/badge/-@lucena_l22-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucena_l22)](https://twitter.com/lucena_l22) 
 
-- 💬 Ask me about **React, TypeScript**
+- 💬 Ask me about **React, TypeScript, Node**
 - 📫 How to reach me pedrocontact22@gmail.com
 - 👨‍💻 All of my projects are available at https://pedrolucena.vercel.app/
 - ⚡ Fun fact **I do calisthenics.**
