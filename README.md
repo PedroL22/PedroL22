@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, TypeScript, Node**
 - 📫 How to reach me pedrocontact22@gmail.com
-- 👨‍💻 All of my projects are available at https://pedrolucena.vercel.app/
+- 👨‍💻 All of my projects are available at https://pedrolucena.com/
 - ⚡ Fun fact **I do calisthenics.**
 
 <h3 align="left">Top Technologies</h3>
