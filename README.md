@@ -8,7 +8,7 @@
 [![Mail Badge](https://img.shields.io/badge/-pedrocontact22-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pedrocontact22@gmail.com) 
 [![Twitter Badge](https://img.shields.io/badge/-@lucena_l22-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucena_l22)](https://twitter.com/lucena_l22) 
 
-- 💬 Ask me about **React, TypeScript, Node**
+- 💬 Ask me about **TypeScript, React, Node**
 - 📫 How to reach me pedrocontact22@gmail.com
 - 👨‍💻 All of my projects are available at https://pedrolucena.com
 - ⚡ Fun fact **I do calisthenics.**
